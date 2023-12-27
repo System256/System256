@@ -1,13 +1,4 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jj
-==========================================================================================================================
-
-Upcoming Web Dev.
------------------
-
-I'm learning HTML, CSS, and JS to become a web dev.
-
-* 🌍  I'm based in United States
-* 🧠  I'm learning HTML, CSS, and JS
 
 ### Skills
 
